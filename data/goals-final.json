@@ -95,14 +95,7 @@
     "goal": 7,
     "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
     "short": "Affordable and Clean Energy",
-    "colorInfo": {
-      "hex": "#fcc30b",
-      "rgb": [
-        252,
-        195,
-        11
-      ]
-    },
+  
     "keywords": "Access to electricity in the poorest countries has begun to accelerate, energy efficiency continues to improve and renewable energy is making gains in electricity sector. Despite this progress, some 800 million people remain without electricity while access to clean cooking fuels and technologies needs dedicated attention. In addition, if Sustainable Development Goals 7, 13 and related Goals are to be met, much higher levels of ambition are required with regard to renewable energy, including transportation and heating.",
     "icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_7.png"
   },
@@ -110,14 +103,7 @@
     "goal": 8,
     "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
     "short": "Decent Jobs and Economic Growth",
-    "colorInfo": {
-      "hex": "#a21942",
-      "rgb": [
-        162,
-        25,
-        66
-      ]
-    },
+   
     "keywords": "Inclusive and sustainable economic growth can drive progress and generate the means to implement the Sustainable Development Goals. Globally, labour productivity has increased and unemployment is back to pre-financial crisis levels. However, the global economy is growing at a slower rate. More progress is needed to increase employment opportunities, particularly for young people, reduce informal employment and the gender pay gap and promote safe and secure working environments to create decent work for all.",
     "icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_8.png"
   },
@@ -125,14 +111,7 @@
     "goal": 9,
     "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
     "short": "Industry, Innovation and Infrastructure",
-    "colorInfo": {
-      "hex": "#fd6925",
-      "rgb": [
-        253,
-        105,
-        37
-      ]
-    },
+   
     "keywords": "Aspects of the prevailing global economic environment have not been conducive to rapid progress on Sustainable Development Goal 9. While financing for economic infrastructure has increased in developing countries and impressive progress has been made in mobile connectivity, countries that are lagging behind, such as least developed countries, face serious challenges in doubling the manufacturing industry’s share of GDP by 2030, and investment in scientific research and innovation remains below the global average.",
     "icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_9.png"
   },
@@ -140,14 +119,7 @@
     "goal": 10,
     "title": "Reduce inequality within and among countries",
     "short": "Reduced Inequalities",
-    "colorInfo": {
-      "hex": "#dd1367",
-      "rgb": [
-        221,
-        19,
-        103
-      ]
-    },
+   
     "keywords": "Inequality within and among nations continues to be a significant concern despite progress in and efforts at narrowing disparities of opportunity, income and power. Income inequality continues to rise in many parts of the world, even as the bottom 40 per cent of the population in many countries has experienced positive growth rates. Greater emphasis will need to be placed on reducing inequalities in income as well as those based on other factors. Additional efforts are needed to increase zero-tariff access for exports from least developed countries and developing countries, and assistance to least developed countries and small island developing States.",
     "icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_10.png"
   },

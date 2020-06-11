@@ -15,7 +15,7 @@ var express = require('express'),
   router = express.Router();
 
 router.get('/', function (req, res) {
-  res.json( { 'meta' : 'info about the api goes here' } );
+  res.json( { 'meta' : 'Welcome to TechBuzs Sustainable Development Goal API for GreenHorizon' } );
 });
 
 router.use('/goals', require('./goals'));

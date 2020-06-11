@@ -10,16 +10,9 @@
         59
       ]
     },
-    "keywords": {
-      "tags": [
-        "poverty"
-      ],
-      "descriptions": "The decline of global extreme poverty continues, but has slowed. The deceleration indicates that the world is not on track to achieve the target of less than 3 per cent of the world living in extreme poverty by 2030. People who continue to live in extreme poverty face deep, entrenched deprivation often exacerbated by violent conflicts and vulnerability to disasters. Strong social protection systems and government spending on key services often help those left behind get back on their feet and escape poverty, but these services need to be brought to scale.",
-      "groups": [
-        "poorest",
-        "vulnerable"
-      ]
-    },
+   
+      "keywords": "The decline of global extreme poverty continues, but has slowed. The deceleration indicates that the world is not on track to achieve the target of less than 3 per cent of the world living in extreme poverty by 2030. People who continue to live in extreme poverty face deep, entrenched deprivation often exacerbated by violent conflicts and vulnerability to disasters. Strong social protection systems and government spending on key services often help those left behind get back on their feet and escape poverty, but these services need to be brought to scale.",
+     
     "icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_1.png"
   },
   {

@@ -7,6 +7,7 @@ var express = require('express'),
   port = process.env.PORT || 3000;
 
 app.use(cors());
+app.use('/favicon.ico', express.static('images/favicon.ico'));
 
 app.use( require('./controllers') );
 
